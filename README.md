@@ -19,6 +19,9 @@ Windows10(64bit)
 ## 작성언어
 C#(Unity)
 
+## 플랫폼
+웹
+
 ## 사용 IDE
 Unity 2017.3.1f1
 
